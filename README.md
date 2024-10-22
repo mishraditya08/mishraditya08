@@ -7,7 +7,7 @@ A web developer with a strong foundation in the MERN stack (MongoDB, Express.js,
 </div>
 <br/>
 
-<a href="mail.google.com/mail/?view=cm&fs=1&to=mishraditya0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:mishraditya0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/mishr-a-ditya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
