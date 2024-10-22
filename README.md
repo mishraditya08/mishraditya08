@@ -8,3 +8,5 @@ I'm Aditya Mishra, a passionate web developer with hands-on experience in buildi
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+# 🔧 Technologies & Tools
